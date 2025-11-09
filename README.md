@@ -121,7 +121,8 @@ while True:
 client_socket.close()
 ```
 ## Output:
-<img width="1343" height="320" alt="image" src="https://github.com/user-attachments/assets/820609d8-5914-4b9d-af36-9ed73e5104a2" />
+<img width="1534" height="383" alt="image" src="https://github.com/user-attachments/assets/cbc41a47-2429-4013-bc4e-192878234303" />
+
 
 ## Result:
 
